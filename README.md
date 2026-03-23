@@ -1,2 +1,2 @@
 # BodaGenesis-kevin
-Tarjeta digita
+Tarjeta digital
